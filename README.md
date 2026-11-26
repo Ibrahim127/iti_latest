@@ -1,3 +1,3 @@
-![picture](Rectangle 40.png)
+![picture](./Rectangle 40.png)
 
 
