@@ -1,0 +1,48 @@
+[33mcommit e27d98d612c233192857aa380b62e78439d3e059[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;32mfeature[m[33m)[m
+Author: Ibrahim Khaled <ibrahimkhaled1810@gmail.com>
+Date:   Thu Nov 26 13:08:30 2026 +0200
+
+    adding fourth header
+
+[33mcommit 5dcdf196837dd9c352440635ff2536bce23029dc[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mtest[m[33m)[m
+Author: Ibrahim Khaled <ibrahimkhaled1810@gmail.com>
+Date:   Thu Nov 26 13:04:38 2026 +0200
+
+    adding a button
+
+[33mcommit bc9db2c326b6e33b3148444529e88ad7b60fc2cd[m[33m ([m[1;32mdev[m[33m)[m
+Author: Ibrahim Khaled <ibrahimkhaled1810@gmail.com>
+Date:   Thu Nov 26 12:56:59 2026 +0200
+
+    adding styles
+
+[33mcommit 5d84898f45746004e16dc00324256fd9ccbe8eb1[m[33m ([m[1;31morigin/dev[m[33m)[m
+Merge: 08df197 71efc05
+Author: Ibrahim Khaled <ibrahimkhaled1810@gmail.com>
+Date:   Thu Nov 26 12:53:51 2026 +0200
+
+    merge
+
+[33mcommit 71efc054052fa88138a9ab1db4cad09bc8e74876[m
+Author: Ibrahim Khaled <113366783+Ibrahim127@users.noreply.github.com>
+Date:   Thu Nov 26 10:43:13 2026 +0000
+
+    Initial commit
+
+[33mcommit 08df197ac6edfcbaf58e5d65c1576e9f92258c84[m
+Author: Ibrahim Khaled <ibrahimkhaled1810@gmail.com>
+Date:   Thu Nov 26 12:41:31 2026 +0200
+
+    the third commit
+
+[33mcommit c499dc8b04644cfcd5dddfbdbb9408d51e50f31c[m
+Author: Ibrahim Khaled <ibrahimkhaled1810@gmail.com>
+Date:   Thu Nov 26 12:41:00 2026 +0200
+
+    the second commit
+
+[33mcommit ea636df1c216155f6662bddbcb0b6cf41375472e[m
+Author: Ibrahim Khaled <ibrahimkhaled1810@gmail.com>
+Date:   Thu Nov 26 12:40:11 2026 +0200
+
+    the first commit
